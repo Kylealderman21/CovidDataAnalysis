@@ -5,4 +5,4 @@ This is a data analysis project using SQL Server Management Studios and SQL Serv
 
 In this project, I use Global COVID Data to analyze infection, death and vaccination trends during the height of the pandemic
 
-I demonstrade a variety of SQL skills including: joins, CTE's, temp tables, aggregate functions, creating views, converting data types, and creating stored procedures 
+I demonstrade a variety of SQL skills including: joins, CTE's, temp tables, aggregate functions, creating views, converting data types 
